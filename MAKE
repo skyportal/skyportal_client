@@ -1,0 +1,1 @@
+ openapi-generator generate --skip-validate-spec  --package-name skyportal_client --git-repo-id skyportal_client --git-user-id skyportal  -i ~/Downloads/swagger.json -g python -o .
